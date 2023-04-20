@@ -7,9 +7,7 @@ title: Home
 permalink: /
 ---
 
-_This page is under development_
-
-🖖 Hi
+🖖 _Hi_
 
 I’m Renan Lenhare, a developer based on Americana, São Paulo, Brazil.
 
