@@ -5,9 +5,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Currently working at Secretaria de Saúde de Americana, and contributing to some open-source projects.
   Feel free to reach me on Mastodon, Twitter and Bluesky!
 baseurl: ""
-url: ""
+url: "https://lenhare.dev"
 twitter_username: renanlenhare
 github_username: lenhare
+author:
+  email: lenhare@outlook.com
+  name: "Renan Lenhare"
 
 # theme: jekyll-theme-console
 remote_theme: b2a3e8/jekyll-theme-console
