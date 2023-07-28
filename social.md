@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Social
-permalink: social.lenhare.dev
+title: /social
+target: https://social.lenhare.dev
 ---
