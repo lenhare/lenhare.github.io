@@ -1,5 +1,5 @@
 ---
 layout: forward
 title: /social
-target: https://social.lenhare.dev
+target: https://social.lenhare.dev/
 ---
