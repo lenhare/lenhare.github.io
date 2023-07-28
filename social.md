@@ -1,6 +1,6 @@
 ---
 layout: redirected
-sitemap: false
+sitemap: true
 permalink: /social/
 redirect_to: http://social.lenhare.dev/
 ---
