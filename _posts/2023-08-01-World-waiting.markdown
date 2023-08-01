@@ -2,6 +2,7 @@
 layout: post
 title: "The world is waiting to hear your story"
 date: 2023-08-01 14:54:09 -0300
+comments: true
 categories: post
 ---
 
