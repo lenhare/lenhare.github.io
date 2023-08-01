@@ -1,5 +1,4 @@
 <nav id="sidebar-icon-links">
-  {% if site.hydeout.repo %}
   <a
     id="github-link"
     class="icon"
@@ -9,17 +8,6 @@
   >
     {% include svg/github.svg %}
   </a>
-  <a
-    id="github-download-link"
-    class="icon"
-    title="Download"
-    aria-label="Download"
-    href="{{ site.lenhare.repo }}/archive/v{{ site.lenhare.version }}.zip"
-  >
-    {% include svg/download.svg %}
-  </a>
-  {% endif %}
-
   <a
     id="subscribe-link"
     class="icon"
