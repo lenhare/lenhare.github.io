@@ -43,6 +43,9 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
+disqus:
+  shortname: lenhare
+
 sidebar_home_link: true
 # Exclude from processing.
 # The following items will not be processed, by default.
