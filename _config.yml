@@ -27,7 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 main: lenhare.github.io # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lenhare.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
 github_username: lenhare
 paginate: 5
 permalink: pretty
@@ -46,6 +45,7 @@ disqus:
   shortname: lenhare
 
 sidebar_home_link: true
+google_analytics: G-TMCT93Y2DW
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

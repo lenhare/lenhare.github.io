@@ -1,15 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en-us'}}">
-
-  {% include head.html %}
+  {% if site.google_analytics and jekyll.environment == 'production' %} {%
+  include analytics.html %} {% endif %} {% include head.html %}
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
-
     {% include sidebar.html %}
 
-    <main class="container">
-      {{ content }}
-    </main>
+    <main class="container">{{ content }}</main>
 
     {% include custom-foot.html %}
   </body>
