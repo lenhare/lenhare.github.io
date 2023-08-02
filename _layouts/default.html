@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: 'en-us'}}">
-  {% if site.google_analytics and jekyll.environment == 'production' %} {%
-  include analytics.html %} {% endif %} {% include head.html %}
+  {% include head.html %}
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
     {% include sidebar.html %}
