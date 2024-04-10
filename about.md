@@ -16,4 +16,4 @@ Reach me on:
 
 Follow me on [GitHub](https://github.com/lenhare).
 
-Follow me on <a rel="me" href="https://mozilla.social/@lenhare">Mastodon</a>
+Follow me on <a rel="me" href="https://mozilla.social/@lenhare">Mastodon</a>.
