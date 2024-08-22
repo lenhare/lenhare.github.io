@@ -11,7 +11,7 @@ Esse interesse constante me permitiu aplicar meus conhecimentos em diferentes á
 
 Em desenvolvimento web, eu me especializo no uso de frameworks modernos como React, Next.js e Vue.js para criar aplicações web escaláveis e de alto desempenho. Crio interfaces de usuário intuitivas com Bootstrap e outras ferramentas de frontend, enquanto, no backend, desenvolvo APIs REST e trabalho com bancos de dados como MongoDB, MySQL e PostgreSQL.
 
-Minha expertise vai além do desenvolvimento web, abrangendo ciência de dados e DevOps. Uso ferramentas como Docker, AWS e Oracle Cloud para construir soluções baseadas na nuvem. Para garantir a operação confiável de sistemas em produção, implemento práticas recomendadas, incluindo pipelines CI/CD, monitoramento e agregação de logs.
+Minha expertise vai além do desenvolvimento web, abrangendo conhecimento em infraestrutura de rede, Linux, firewall e aplicações open source. Uso ferramentas como Docker, AWS e Oracle Cloud para construir soluções baseadas na nuvem.
 
 O aprendizado contínuo é um pilar da minha abordagem profissional. Mantenho-me atualizado com as últimas tecnologias por meio de educação contínua, buscando constantemente aprimorar minhas habilidades e enfrentar novos desafios. Minha capacidade de adaptar-me rapidamente a novas linguagens e frameworks me torna um engenheiro versátil e um solucionador de problemas eficaz.
 
