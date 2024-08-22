@@ -29,13 +29,13 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Github",
     href: "https://github.com/lenhare/lenhare.github.io.git",
-    linkTitle: ` ${SITE.title} no Github`,
+    linkTitle: `Renan Lenhare no Github`,
     active: true,
   },
   {
     name: "Instagram",
     href: "https://instagram.com/renanlenhare",
-    linkTitle: `${SITE.title} no Instagram`,
+    linkTitle: `Renan Lenhare no Instagram`,
     active: true,
   },
   {
@@ -47,43 +47,43 @@ export const SOCIALS: SocialObjects = [
   {
     name: "Mastodon",
     href: "https://bolha.us/lenhare",
-    linkTitle: `${SITE.title} no Mastodon`,
+    linkTitle: `Renan Lenhare no Mastodon`,
     active: false,
   },
   {
     name: "Twitch",
     href: "https://twitch.tv/lenhare",
-    linkTitle: `${SITE.title} na Twitch`,
+    linkTitle: `Renan Lenhare na Twitch`,
     active: true,
   },
   {
     name: "YouTube",
     href: "https://youtube.com/user/RenanLenhare",
-    linkTitle: `${SITE.title} no YouTube`,
+    linkTitle: `Renan Lenhare no YouTube`,
     active: true,
   },
   {
     name: "Discord",
     href: "https://discord.com/users/187046479725199361",
-    linkTitle: `${SITE.title} no Discord`,
+    linkTitle: `Renan Lenhare no Discord`,
     active: true,
   },
   {
     name: "Reddit",
     href: "https://www.reddit.com/user/rlenhare/",
-    linkTitle: `${SITE.title} no Reddit`,
+    linkTitle: `Renan Lenhare no Reddit`,
     active: false,
   },
   {
     name: "Steam",
     href: "https://steamcommunity.com/id/renansioso/",
-    linkTitle: `${SITE.title} na Steam`,
+    linkTitle: `Renan Lenhare na Steam`,
     active: false,
   },
   {
     name: "Telegram",
     href: "https://t.me/lenhare",
-    linkTitle: `${SITE.title} no Telegram`,
+    linkTitle: `Renan Lenhare no Telegram`,
     active: true,
   },
 ];
