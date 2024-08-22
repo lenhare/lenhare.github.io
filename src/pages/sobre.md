@@ -9,6 +9,17 @@ Eu sou Renan Lenhare, atualmente trabalho na Secretaria de Saúde de Americana. 
 
 Esse interesse constante me permitiu aplicar meus conhecimentos em diferentes áreas, mesmo quando meu trabalho inicial não era diretamente relacionado à tecnologia. Ao longo da minha carreira, contribuí significativamente para a implantação de diversas ferramentas e ideias que otimizaram processos e facilitaram o dia a dia de muitas pessoas.
 
+Em desenvolvimento web, eu me especializo no uso de frameworks modernos como React, Next.js e Vue.js para criar aplicações web escaláveis e de alto desempenho. Crio interfaces de usuário intuitivas com Bootstrap e outras ferramentas de frontend, enquanto, no backend, desenvolvo APIs REST e trabalho com bancos de dados como MongoDB, MySQL e PostgreSQL.
+
+Minha expertise vai além do desenvolvimento web, abrangendo ciência de dados e DevOps. Uso ferramentas como Docker, AWS e Oracle Cloud para construir soluções baseadas na nuvem. Para garantir a operação confiável de sistemas em produção, implemento práticas recomendadas, incluindo pipelines CI/CD, monitoramento e agregação de logs.
+
+O aprendizado contínuo é um pilar da minha abordagem profissional. Mantenho-me atualizado com as últimas tecnologias por meio de educação contínua, buscando constantemente aprimorar minhas habilidades e enfrentar novos desafios. Minha capacidade de adaptar-me rapidamente a novas linguagens e frameworks me torna um engenheiro versátil e um solucionador de problemas eficaz.
+
+Minha busca por conhecimento se estende a diversos meios. Gosto de documentários e vídeos científicos no YouTube e Netflix. Essas atividades complementam meus interesses profissionais e me ajudam a manter uma perspectiva ampla.
+
+Para lazer, sou um ávido gamer. Essa paixão me permite relaxar e conectar-me com uma comunidade global de jogadores.
+No meu tempo livre, gosto de tocar piano ou começar novos projetos. Esse outlet criativo me ajuda a aprimorar minhas habilidades de criação de conteúdo e escrita enquanto exploro assuntos diversos.
+
 ## Links Sociais
 
 Lenhare no [Github](https://github.com/lenhare)

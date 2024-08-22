@@ -72,13 +72,13 @@ export const SOCIALS: SocialObjects = [
     name: "Reddit",
     href: "https://www.reddit.com/user/rlenhare/",
     linkTitle: `${SITE.title} no Reddit`,
-    active: true,
+    active: false,
   },
   {
     name: "Steam",
     href: "https://steamcommunity.com/id/renansioso/",
     linkTitle: `${SITE.title} na Steam`,
-    active: true,
+    active: false,
   },
   {
     name: "Telegram",
