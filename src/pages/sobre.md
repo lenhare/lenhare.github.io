@@ -9,7 +9,7 @@ Eu sou Renan Lenhare, trabalho atualmente na Secretaria de Saúde de Americana, 
 
 Lenhare no [Github](https://github.com/lenhare)
 
-Renan Lenhare no Discord
+Renan Lenhare no [Discord](https://discord.com/users/187046479725199361)
 
 Envie um email para [renan@lenhare.dev](renan@lenhare.dev)
 
