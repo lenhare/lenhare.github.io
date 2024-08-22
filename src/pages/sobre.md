@@ -5,7 +5,7 @@ title: "Sobre"
 
 <p><img src="https://lenhare.dev/assets/renan.jpg" alt="Renan Lenhare"></p>
 
-Eu sou Renan Lenhare, atualmente trabalho na Secretaria de Saúde de Americana. Com mais de seis anos de experiência em desenvolvimento de aplicações web e minha jornada na tecnologia começou desde a infância, movido pela curiosidade e paixão por programação, Linux e novas ferramentas.
+Me chamo Renan Lenhare, tenho 33 anos, atualmente trabalho na Secretaria de Saúde de Americana. Com mais de seis anos de experiência em desenvolvimento de aplicações web e minha jornada na tecnologia começou desde a infância, movido pela curiosidade e paixão por programação, Linux e novas ferramentas.
 
 Esse interesse constante me permitiu aplicar meus conhecimentos em diferentes áreas, mesmo quando meu trabalho inicial não era diretamente relacionado à tecnologia. Ao longo da minha carreira, contribuí significativamente para a implantação de diversas ferramentas e ideias que otimizaram processos e facilitaram o dia a dia de muitas pessoas.
 
