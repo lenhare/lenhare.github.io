@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Renan Lenhare",
   profile: "https://lenhare.dev/",
   desc: "Soluções Inovadoras & Insights Pessoais.",
-  title: "Renan Lenhare",
+  title: "lenhare.dev",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,

@@ -40,23 +40,26 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
         <span class="sr-only">RSS Feed</span>
       </a>
-
-      <p>Soluções Inovadoras & Insights</p>
-
-      <p>Pessoais Bem-vindo ao meu blog!</p>
+      <h2>Soluções Inovadoras & Insights Pessoais</h2>
       <p>
-        Aqui, eu misturo conversas sobre tecnologia com histórias pessoais. Você
-        encontrará um pouco de tudo enquanto compartilho meus pensamentos sobre:
-        • Novas ideias em desenvolvimento web e ciência de dados •
-        Históriassobre minha vida e família • Como as novas tecnologias estão
-        mudando o nosso mundo • Resolvendo problemas na tecnologia e na vida
-        cotidiana • Minhas experiências, crenças e atualizações aleatórias Se
-        você gosta de tecnologia, está curioso ou gosta de ler sobre trabalho e
-        vida pessoal, encontrará algo interessante aqui. Acompanhe-me enquanto
+        Bem-vindo ao meu blog! Aqui, eu misturo conversas sobre tecnologia com
+        histórias pessoais. Você encontrará um pouco de tudo enquanto
+        compartilho meus pensamentos sobre:
+      </p>
+      <ul>
+        <li>Histórias sobre minha vida e família</li>
+        <li>Como as novas tecnologias estão mudando o nosso mundo</li>
+        <li>Resolvendo problemas na tecnologia e na vida cotidiana</li>
+        <li class="astro-j7pv25f6">
+          Minhas experiências, crenças e atualizações aleatórias
+        </li>
+      </ul>
+      <p>
+        Se você gosta de tecnologia, está curioso ou gosta de ler sobre trabalho
+        e vida pessoal, encontrará algo interessante aqui. Acompanhe-me enquanto
         escrevo sobre o mundo em constante mudança da tecnologia e minha própria
         jornada de vida. Prepare-se para uma mistura interessante de
-        conhecimento técnico e histórias pessoais! Links Sociais Lenhare no
-        Github Renan Lenhare no Discord Envie um email para renan@lenhare.dev
+        conhecimento técnico e histórias pessoais!
       </p>
 
       {
@@ -76,7 +79,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Featured</h2>
+            <h2>Em destaque</h2>
             <ul>
               {featuredPosts.map(({ data, slug }) => (
                 <Card
@@ -95,7 +98,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     {
       recentPosts.length > 0 && (
         <section id="recent-posts">
-          <h2>Recent Posts</h2>
+          <h2>Postagens recentes</h2>
           <ul>
             {recentPosts.map(
               ({ data, slug }, index) =>
@@ -114,7 +117,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
     <div class="all-posts-btn-wrapper">
       <LinkButton href="/posts/">
-        Todas as postagens
+        Todos as postagens
         <svg xmlns="http://www.w3.org/2000/svg"
           ><path
             d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"
@@ -125,42 +128,60 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   </main>
 
   <Footer />
-
-  <style>
-    /* ===== Hero Section ===== */
-    #hero {
-      @apply pb-6 pt-8;
-    }
-    #hero h1 {
-      @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
-    }
-    #hero .rss-link {
-      @apply mb-6;
-    }
-    #hero .rss-icon {
-      @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
-    }
-    #hero p {
-      @apply my-2;
-    }
-    .social-wrapper {
-      @apply mt-4 flex flex-col sm:flex-row sm:items-center;
-    }
-    .social-links {
-      @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
-    }
-
-    /* ===== Featured & Recent Posts Sections ===== */
-    #featured,
-    #recent-posts {
-      @apply pb-6 pt-12;
-    }
-    #featured h2,
-    #recent-posts h2 {
-      @apply text-2xl font-semibold tracking-wide;
-    }
-    .all-posts-btn-wrapper {
-      @apply my-8 text-center;
-    }
-  </style>
 </Layout>
+
+<style>
+  /* ===== Hero Section ===== */
+  #hero {
+    @apply pb-6 pt-8;
+  }
+  #hero h1 {
+    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl;
+  }
+  #hero .rss-link {
+    @apply mb-6;
+  }
+  #hero .rss-icon {
+    @apply mb-2 h-6 w-6 scale-110 fill-skin-accent sm:mb-3 sm:scale-125;
+  }
+  #hero p {
+    @apply my-2;
+  }
+  .social-wrapper {
+    @apply mt-4 flex flex-col sm:flex-row sm:items-center;
+  }
+  .social-links {
+    @apply mb-1 mr-2 whitespace-nowrap sm:mb-0;
+  }
+
+  /* ===== Featured & Recent Posts Sections ===== */
+  #featured,
+  #recent-posts {
+    @apply pb-6 pt-12;
+  }
+  #featured h2,
+  #recent-posts h2 {
+    @apply text-2xl font-semibold tracking-wide;
+  }
+  .all-posts-btn-wrapper {
+    @apply my-8 text-center;
+  }
+
+  ul {
+    list-style-type: disc;
+    padding-left: 1.5rem;
+  }
+
+  li::marker {
+    color: rgba(var(--color-accent), var(--tw-bg-opacity));
+    font-size: 1.2rem;
+    content: "• ";
+  }
+
+  #hero:where(.astro-j7pv25f6) h2:where(.astro-j7pv25f6) {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+</style>
