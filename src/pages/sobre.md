@@ -3,7 +3,9 @@ layout: ../layouts/AboutLayout.astro
 title: "Sobre"
 ---
 
-Eu sou Renan Lenhare, trabalho atualmente na Secretaria de Saúde de Americana, também sou um desenvolvedor de software freelance com mais de seis anos de experiência na construção de aplicações web.
+Eu sou Renan Lenhare, atualmente trabalho na Secretaria de Saúde de Americana. Com mais de seis anos de experiência em desenvolvimento de aplicações web e minha jornada na tecnologia começou desde a infância, movido pela curiosidade e paixão por programação, Linux e novas ferramentas.
+
+Esse interesse constante me permitiu aplicar meus conhecimentos em diferentes áreas, mesmo quando meu trabalho inicial não era diretamente relacionado à tecnologia. Ao longo da minha carreira, contribuí significativamente para a implantação de diversas ferramentas e ideias que otimizaram processos e facilitaram o dia a dia de muitas pessoas.
 
 ## Links Sociais
 
