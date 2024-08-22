@@ -58,7 +58,7 @@ const layoutProps = {
         ><path
           d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"
         ></path>
-      </svg><span>Go back</span>
+      </svg><span>Voltar</span>
     </button>
   </div>
   <main id="main-content">
@@ -89,7 +89,7 @@ const layoutProps = {
             d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293z"
           ></path>
         </svg>
-        <span>Back to Top</span>
+        <span>Voltar para o início</span>
       </button>
 
       <ShareLinks />
@@ -212,7 +212,7 @@ const layoutProps = {
   attachCopyButtons();
 
   /** Scrolls the document to the top when
-   * the "Back to Top" button is clicked. */
+   * the "Voltar para o início" button is clicked. */
   function backToTop() {
     document.querySelector("#back-to-top")?.addEventListener("click", () => {
       document.body.scrollTop = 0; // For Safari
