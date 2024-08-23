@@ -5,7 +5,7 @@ modDatetime: 2024-08-23T07:11:00Z
 title: Criando um Virtual Private Server na Oracle Cloud
 slug: criando-vps-oracle-cloud
 featured: true
-draft: true
+draft: false
 tags:
   - tutorial
 description: Criando um Virtual Private Server na Oracle Cloud.
@@ -39,37 +39,40 @@ description: Criando um Virtual Private Server na Oracle Cloud.
 
 ### Criando um Compartimento (Compartment)
 
-1. No menu lateral, vá até **Identity & Security** e clique em **Compartments**.
-2. Clique em **Create Compartment**.
-3. Dê um nome ao compartimento, como `meu_compartimento`, e clique em **Create Compartment**.
+1. No menu lateral, vá até **Identidade e Segurança** e clique em **Compartimentos**.
+2. Clique em **Criar Compartimento**.
+3. Dê um nome ao compartimento, como `meu_compartimento`, e clique em **Criar Compartimento**.
 
 ### Criando uma Rede Virtual (VCN)
 
-1. No menu lateral, vá até **Networking** e clique em **Virtual Cloud Networks**.
-2. Clique em **Create VCN**.
+1. No menu lateral, vá até **Rede** e clique em **Redes virtuais na nuvem**.
+2. Clique em **Criar VCN**.
 3. Dê um nome à VCN, como `minha_vcn`.
 4. Selecione o compartimento que você criou anteriormente.
-5. Marque a opção **Create Virtual Cloud Network Plus Related Resources** para criar as sub-redes e gateway de internet automaticamente.
-6. Clique em **Create VCN**.
+5. Marque a opção **Crie Recursos Relacionados ao Virtual Cloud Network Plus** para criar as sub-redes e gateway de internet automaticamente.
+6. Clique em **Criar VCN**.
 
 ### Criando o Virtual Private Server (VPS)
 
-1. No menu lateral, vá até **Compute** e clique em **Instances**.
-2. Clique em **Create Instance**.
+1. No menu lateral, vá até **Computação** e clique em **Instâncias**.
+2. Clique em **Criar Instância**.
 3. Dê um nome à instância, como `meu_vps`.
-4. No campo **Compartment**, selecione o compartimento que você criou.
-5. Em **Placement**, selecione a região desejada.
-6. Em **Shape**, escolha um tipo de máquina, como o **VM.Standard.E2.1.Micro** (que está no plano gratuito).
+4. No campo **Compartimento**, selecione o compartimento que você criou.
+5. Em **Posicionamento**, selecione a região desejada.
+6. Em **Imagem e forma**, clique em _Alterar Imagem_ e selecione _Ubuntu_, Canonical Ubuntu 22.04 (_Always Free Elegível_), escolha também um tipo de máquina, como o **VM.Standard.E2.1.Micro** (que está no plano gratuito).
 
-**Nota**: No plano **_Always Free_**, você pode criar uma instância com 4 OCPUs e 24 GB de memória, todas as tenancies recebem as primeiras 3.000 horas de OCPU e 18.000 horas GB por mês gratuitas para instâncias de VM usando o VM.Standard.A1. Flex [shape](https://docs.oracle.com/iaas/Content/Compute/References/computeshapes.htm), que tem um [processador Arm](https://docs.oracle.com/iaas/Content/Compute/References/arm.htm).
+**_Nota_**: No plano **_Always Free_**, você pode criar uma instância com 4 OCPUs e 24 GB de memória, todas as tenancies recebem as primeiras 3.000 horas de OCPU e 18.000 horas GB por mês gratuitas para instâncias de VM usando o VM.Standard.A1. Flex [shape](https://docs.oracle.com/iaas/Content/Compute/References/computeshapes.htm), que tem um [processador Arm](https://docs.oracle.com/iaas/Content/Compute/References/arm.htm).
 
-1. Em **Networking**, selecione a VCN que você criou e a sub-rede correspondente.
-2. Em **Add SSH Keys**, insira a chave pública que você utilizará para acessar o VPS.
-3. Clique em **Create** para iniciar a criação da instância.
+7. Em **Informações da VNIC Principal**, selecione a VCN que você criou e a sub-rede correspondente.
+8. Em **Adicionar chaves SSH**, insira a chave pública que você utilizará para acessar o VPS.
+
+   **_Nota_**: Se você estiver usando o cliente Putty, você pode criar a própria chave pública e a chave privada, utilizando o Putty Key Generator (PuTTYgen) e usá-la em "Colar chaves públicas" (guarde bem as chaves para não perder o acesso SSH).
+
+9. Clique em **Criar** para iniciar a criação da instância.
 
 ### Configurando o Acesso SSH
 
-1. Após a instância ser criada, vá até a seção **Public IP Address** e anote o IP público.
+1. Após a instância ser criada, vá até a seção **Endereço IP Público** e anote o IP público.
 2. Abra seu cliente SSH e conecte-se à instância usando o comando abaixo (substitua `user` pelo nome de usuário padrão, como `opc`, e `IP_ADDRESS` pelo IP público da instância):
 
    ```bash
