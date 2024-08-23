@@ -86,7 +86,7 @@ Para que o site seja publicado corretamente no GitHub Pages, faça as seguintes 
 
 ### 5. Publicar no GitHub Pages
 
-1. **Empurrar o código para o GitHub:**
+1. **Realizar o push do código para o GitHub:**
 
    - Adicione o repositório remoto do GitHub ao seu projeto local:
 

@@ -58,4 +58,4 @@ Estou disponível para consultorias, assuntos sobre trabalho freelance ou contra
 
 **E-mail:** renan@lenhare.dev
 
-Meu horário de trabalho é das 8h às 17h GMT-3, de segunda a sexta-feira. Se você me contatar fora desses horários, espere uma resposta dentro de 24 horas. Por favor, observe que não respondo durante feriados e fins de semana.
+Meu horário de trabalho é das 8h às 17h GMT-3, de segunda a sexta-feira. Entrarei em contato após o meu expediente. Por favor, observe que não respondo durante feriados e fins de semana.
