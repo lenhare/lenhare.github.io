@@ -61,7 +61,7 @@ description: Criando um Virtual Private Server na Oracle Cloud.
 5. Em **Posicionamento**, selecione a região desejada.
 6. Em **Imagem e forma**, clique em _Alterar Imagem_ e selecione _Ubuntu_, Canonical Ubuntu 22.04 (_Always Free Elegível_), escolha também um tipo de máquina, como o **VM.Standard.E2.1.Micro** (que está no plano gratuito).
 
-**_Nota_**: No plano **_Always Free_**, você pode criar uma instância com 4 OCPUs e 24 GB de memória, todas as tenancies recebem as primeiras 3.000 horas de OCPU e 18.000 horas GB por mês gratuitas para instâncias de VM usando o VM.Standard.A1. Flex [shape](https://docs.oracle.com/iaas/Content/Compute/References/computeshapes.htm), que tem um [processador Arm](https://docs.oracle.com/iaas/Content/Compute/References/arm.htm).
+   **_Nota_**: No plano **_Always Free_**, você pode criar uma instância com 4 OCPUs e 24 GB de memória, todas as tenancies recebem as primeiras 3.000 horas de OCPU e 18.000 horas GB por mês gratuitas para instâncias de VM usando o VM.Standard.A1. Flex [shape](https://docs.oracle.com/iaas/Content/Compute/References/computeshapes.htm), que tem um [processador Arm](https://docs.oracle.com/iaas/Content/Compute/References/arm.htm).
 
 7. Em **Informações da VNIC Principal**, selecione a VCN que você criou e a sub-rede correspondente.
 8. Em **Adicionar chaves SSH**, insira a chave pública que você utilizará para acessar o VPS.
