@@ -7,7 +7,8 @@ slug: participe-do-imersao-dev-google
 ogImage: https://www.alura.com.br/assets/img/imersoes/imersao-dev-google-gemini/logo-alura-gemini-g.1723147631.png
 featured: true
 tags:
-  - tutorial
+  - imersao
+  - alura
 description: Aprenda a programar, do zero ao seu primeiro projeto com a Alura e Google Gemini.
 ---
 
