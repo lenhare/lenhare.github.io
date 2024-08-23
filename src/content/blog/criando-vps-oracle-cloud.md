@@ -5,7 +5,7 @@ modDatetime: 2024-08-23T07:11:00Z
 title: Criando um Virtual Private Server na Oracle Cloud
 slug: criando-vps-oracle-cloud
 featured: true
-draft: false
+draft: true
 tags:
   - tutorial
 description: Criando um Virtual Private Server na Oracle Cloud.
@@ -60,10 +60,12 @@ description: Criando um Virtual Private Server na Oracle Cloud.
 4. No campo **Compartment**, selecione o compartimento que você criou.
 5. Em **Placement**, selecione a região desejada.
 6. Em **Shape**, escolha um tipo de máquina, como o **VM.Standard.E2.1.Micro** (que está no plano gratuito).
-   6.1. **Nota**: No plano **_Always Free_**, você pode criar uma instância com 4 OCPUs e 24 GB de memória, todas as tenancies recebem as primeiras 3.000 horas de OCPU e 18.000 horas GB por mês gratuitas para instâncias de VM usando o VM.Standard.A1. Flex [shape](https://docs.oracle.com/iaas/Content/Compute/References/computeshapes.htm), que tem um [processador Arm](https://docs.oracle.com/iaas/Content/Compute/References/arm.htm).
-7. Em **Networking**, selecione a VCN que você criou e a sub-rede correspondente.
-8. Em **Add SSH Keys**, insira a chave pública que você utilizará para acessar o VPS.
-9. Clique em **Create** para iniciar a criação da instância.
+
+**Nota**: No plano **_Always Free_**, você pode criar uma instância com 4 OCPUs e 24 GB de memória, todas as tenancies recebem as primeiras 3.000 horas de OCPU e 18.000 horas GB por mês gratuitas para instâncias de VM usando o VM.Standard.A1. Flex [shape](https://docs.oracle.com/iaas/Content/Compute/References/computeshapes.htm), que tem um [processador Arm](https://docs.oracle.com/iaas/Content/Compute/References/arm.htm).
+
+1. Em **Networking**, selecione a VCN que você criou e a sub-rede correspondente.
+2. Em **Add SSH Keys**, insira a chave pública que você utilizará para acessar o VPS.
+3. Clique em **Create** para iniciar a criação da instância.
 
 ### Configurando o Acesso SSH
 
