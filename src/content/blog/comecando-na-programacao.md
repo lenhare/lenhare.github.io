@@ -37,7 +37,7 @@ Agora, vamos às dicas e sites que podem te ajudar a dar os primeiros passos:
 
 **_Extra_**: Crie um [GitHub](https://github.com/), inicialmente para você não perder seus códigos (rsrs), _o GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo._ Inclusive, tenho um tutorial de como fazer um deploy de um site igual a esse, [aqui](https://lenhare.dev/posts/aprenda-a-fazer-deploy-site/).
 
-## Sites que vão lhe ajudar (conforme eu for conhecendo mais sites, vou atualizar o post!)
+## Sites que vão lhe ajudar (conforme eu for lembrando de mais sites, vou atualizar o artigo!)
 
 1. Diversos Cheat Sheets: https://quickref.me/index.html
 2. Roadmap, um guia do que estudar na sequência em diversas áreas: https://roadmap.sh/roadmaps
