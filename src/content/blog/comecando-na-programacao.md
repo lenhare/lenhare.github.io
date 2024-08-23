@@ -41,5 +41,6 @@ Agora, vamos às dicas e sites que podem te ajudar a dar os primeiros passos:
 
 1. Diversos Cheat Sheets: https://quickref.me/index.html
 2. Roadmap, um guia do que estudar na sequência em diversas áreas: https://roadmap.sh/roadmaps
+3. Curso Origamid: https://www.origamid.com/; Esse curso é pago, fique de olho para as promoções, geralmente entra em promoção por R$ 468 (atualizado em 23/08/2024).
 
 Lembre-se, a jornada para se tornar um programador pode ser longa, mas com dedicação e os recursos certos, você chegará lá.
