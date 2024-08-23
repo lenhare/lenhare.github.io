@@ -1,7 +1,7 @@
 ---
 author: Renan Lenhare
-pubDatetime: 2024-08-22T19:28:00Z
-modDatetime: 2024-08-22T19:28:00Z
+pubDatetime: 2024-08-23T19:28:00Z
+modDatetime: 2024-08-23T19:28:00Z
 title: Imersão Dev com Gemini curso de programação iniciante
 slug: participe-do-imersao-dev-google
 featured: true
