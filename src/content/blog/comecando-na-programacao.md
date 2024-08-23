@@ -35,6 +35,8 @@ Agora, vamos às dicas e sites que podem te ajudar a dar os primeiros passos:
 
 **_Nota_**: Não fique preso no _limbo_ dos tutoriais de YouTube. É fácil se envolver em tutoriais e nunca construir nada. Os tutoriais são ótimos para aprender, mas a melhor maneira de aprender é **fazendo**. Um exemplo disso é assistir a um tutorial baseado em projeto, codificar junto com o instrutor. Depois de terminar o tutorial, tente construir o mesmo projeto do zero **sem** o tutorial (se não conseguir, não há problema em voltar ao tutorial). Repita esse processo até poder construir o projeto sem o tutorial. Depois disso, tente adicionar novos recursos ao projeto ou construir algo semelhante do zero.
 
+7. Site de notícias, como o [DEV.to](https://dev.to/) e [Hacker News](https://news.ycombinator.com/) para ficar por dentro de novas tecnologias.
+
 **_Extra_**: Crie um [GitHub](https://github.com/), inicialmente para você não perder seus códigos (rsrs), _o GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo._ Inclusive, tenho um tutorial de como fazer um deploy de um site igual a esse, [aqui](https://lenhare.dev/posts/aprenda-a-fazer-deploy-site/).
 
 ## Sites que vão lhe ajudar (conforme eu for lembrando de mais sites, vou atualizar o artigo!)
