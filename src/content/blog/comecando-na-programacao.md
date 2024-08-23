@@ -25,7 +25,7 @@ Agora, vamos às dicas e sites que podem te ajudar a dar os primeiros passos:
 
 2. Utilize plataformas de aprendizado online: Sites como [Codecademy](https://www.codecademy.com/), [freeCodeCamp](https://www.freecodecamp.org/) e **[Udemy](https://www.udemy.com/)** oferecem cursos interativos gratuitos que vão te ensinar os conceitos básicos e além.
 
-3. Participe de comunidades de desenvolvedores: Entrar em fóruns, como [Stack Overflow](https://stackoverflow.com/), grupos de discussão no Reddit, e canais do Discord, como é o caso do [BolaDevs](https://discord.com/invite/bzZWbQ9zjJ), meu servidor e do meu amigo [Rafael](https://github.com/rafaelfrazatto) para programadores, tudo isso pode te ajudar a resolver dúvidas e conectar-se com outros iniciantes e profissionais experientes.
+3. Participe de comunidades de desenvolvedores: Entrar em fóruns, como [Stack Overflow](https://stackoverflow.com/), grupos de discussão no Reddit, e canais do Discord, como é o caso do [BolaDevs](https://discord.com/invite/bzZWbQ9zjJ), servidor do meu amigo [Rafael](https://github.com/rafaelfrazatto), para programadores; tudo isso pode te ajudar a resolver dúvidas e conectar-se com outros iniciantes e profissionais experientes.
 
 4. Pratique, pratique, pratique: A programação é uma habilidade prática. Quanto mais você codificar, melhor você vai se tornar. Desafios em plataformas como [HackerRank](https://www.hackerrank.com/) ou [LeetCode](https://leetcode.com/) podem ser ótimos para treinar.
 
