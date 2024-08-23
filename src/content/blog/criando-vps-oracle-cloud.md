@@ -1,11 +1,11 @@
 ---
 author: Renan Lenhare
-pubDatetime: 2024-08-23T19:01:00Z
-modDatetime: 2024-08-23T19:01:00Z
+pubDatetime: 2024-08-23T07:11:00Z
+modDatetime: 2024-08-23T07:11:00Z
 title: Criando um Virtual Private Server na Oracle Cloud
 slug: criando-vps-oracle-cloud
 featured: true
-draft: true
+draft: false
 tags:
   - tutorial
 description: Criando um Virtual Private Server na Oracle Cloud.
