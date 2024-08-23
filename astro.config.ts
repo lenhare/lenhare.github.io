@@ -5,6 +5,7 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
+import remarkExternalLinks from "remark-external-links";
 
 // https://astro.build/config
 export default defineConfig({
@@ -25,6 +26,7 @@ export default defineConfig({
           test: "Table of contents",
         },
       ],
+      [remarkExternalLinks, { target: "_blank", rel: "noopener noreferrer" }],
     ],
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
