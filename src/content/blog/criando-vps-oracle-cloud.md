@@ -5,7 +5,6 @@ modDatetime: 2024-08-23T07:11:00Z
 title: Criando um Virtual Private Server na Oracle Cloud
 slug: criando-vps-oracle-cloud
 featured: false
-draft: false
 tags:
   - tutorial
 description: Criando um Virtual Private Server na Oracle Cloud.

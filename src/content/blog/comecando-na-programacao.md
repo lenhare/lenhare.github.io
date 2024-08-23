@@ -5,7 +5,6 @@ modDatetime: 2024-08-23T19:13:00Z
 title: Começando na Programação
 slug: comecando-na-programacao
 featured: false
-draft: false
 tags:
   - dicas
 description: Dicas para começar na programação.

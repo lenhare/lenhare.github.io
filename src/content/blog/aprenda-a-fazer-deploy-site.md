@@ -5,7 +5,6 @@ modDatetime: 2024-08-22T19:26:00Z
 title: Aprenda a fazer o deploy do Astro Paper
 slug: aprenda-a-fazer-deploy-site
 featured: false
-draft: false
 tags:
   - tutorial
 description: Como eu fiz o deploy deste site.
