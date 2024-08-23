@@ -7,7 +7,7 @@ slug: aprenda-a-fazer-deploy-site
 featured: true
 draft: false
 tags:
-  - como-fazer
+  - tutorial
 description: Como eu fiz o deploy deste site.
 ---
 
