@@ -74,7 +74,7 @@ export default async (post: CollectionEntry<"blog">) => {
             }}
           >
             <span>
-              by{" "}
+              por{" "}
               <span
                 style={{
                   color: "transparent",
