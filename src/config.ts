@@ -58,7 +58,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "YouTube",
-    href: "https://youtube.com/user/RenanLenhare",
+    href: "https://youtube.com/RenanLenhare",
     linkTitle: `Renan Lenhare no YouTube`,
     active: true,
   },
