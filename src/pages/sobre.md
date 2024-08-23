@@ -5,15 +5,15 @@ title: "Sobre"
 
 <p><img src="https://lenhare.dev/assets/renan.jpg" alt="Renan Lenhare"></p>
 
-Me chamo Renan Lenhare, tenho 33 anos, atualmente trabalho na Secretaria de Saúde de Americana. Com mais de seis anos de experiência em desenvolvimento de aplicações web e minha jornada na tecnologia começou desde a infância, movido pela curiosidade e paixão por programação, Linux e novas ferramentas.
+Me chamo Renan Lenhare, tenho 33 anos, possuo formação em ASTI pela FATEC e em Gestão em TI pela Anhanguera. Atualmente trabalho na Secretaria de Saúde de Americana. Com mais de seis anos de experiência em desenvolvimento de aplicações web, minha jornada na tecnologia começou desde a infância, movido pela curiosidade e paixão por programação, Linux e novas ferramentas.
 
 Esse interesse constante me permitiu aplicar meus conhecimentos em diferentes áreas, mesmo quando meu trabalho inicial não era diretamente relacionado à tecnologia. Ao longo da minha carreira, contribuí significativamente para a implantação de diversas ferramentas e ideias que otimizaram processos e facilitaram o dia a dia de muitas pessoas.
 
-Em desenvolvimento web, eu me especializo no uso de frameworks modernos como React, Next.js e Vue.js para criar aplicações web escaláveis e de alto desempenho. Crio interfaces de usuário intuitivas com Bootstrap e outras ferramentas de frontend, enquanto, no backend, desenvolvo APIs REST e trabalho com bancos de dados como MongoDB, MySQL e PostgreSQL.
+Em desenvolvimento web, me especializo no uso de frameworks modernos em JavaScript como React, Next.js e Vue.js para criar aplicações web escaláveis e de alto desempenho. Crio interfaces de usuário intuitivas com Bootstrap e outras ferramentas de frontend, enquanto, no backend, desenvolvo APIs REST e trabalho com bancos de dados como MongoDB, MySQL e PostgreSQL.
 
-Minha expertise vai além do desenvolvimento web, abrangendo conhecimento em infraestrutura de rede, Linux, firewall e aplicações open source. Uso ferramentas como Docker, AWS e Oracle Cloud para construir soluções baseadas na nuvem.
+Minha expertise vai além do desenvolvimento web, abrangendo conhecimento em infraestrutura de redes, Linux, virtualização, firewall e aplicações open source. Uso ferramentas como Docker, AWS e Oracle Cloud para construir soluções baseadas na nuvem.
 
-O aprendizado contínuo é um pilar da minha abordagem profissional. Mantenho-me atualizado com as últimas tecnologias por meio de educação contínua, buscando constantemente aprimorar minhas habilidades e enfrentar novos desafios. Minha capacidade de adaptar-me rapidamente a novas linguagens e frameworks me torna um engenheiro versátil e um solucionador de problemas eficaz.
+O aprendizado contínuo é um pilar da minha abordagem profissional. Mantenho-me atualizado com as últimas tecnologias por meio de educação contínua, buscando constantemente aprimorar minhas habilidades e enfrentar novos desafios. Minha capacidade de adaptar-me rapidamente a novas linguagens e frameworks me torna um profissinal versátil e um solucionador de problemas eficaz.
 
 Minha busca por conhecimento se estende a diversos meios. Gosto de documentários e vídeos científicos no YouTube e Netflix. Essas atividades complementam meus interesses profissionais e me ajudam a manter uma perspectiva ampla.
 
@@ -48,11 +48,10 @@ Envie um email para [renan@lenhare.dev](renan@lenhare.dev)
 
 ## Diretrizes de Contato
 
-Estou disponível para consultas sobre trabalho freelance ou contratos e aberto a discussões profissionais. Para garantir uma comunicação eficaz:
+Estou disponível para consultorias, assuntos sobre trabalho freelance ou contratos. Para garantir uma comunicação eficaz:
 
 - Inclua detalhes completos do projeto e um orçamento estimado na sua mensagem inicial.
 - O e-mail é o método preferido para comunicação rápida.
-- Para discussões sobre artigos que escrevi em outros lugares, utilize o formulário de contato do respectivo site.
 - Você pode citar ou usar partes dos meus artigos para pesquisa sem precisar de permissão.
 
 ## Contato

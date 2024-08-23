@@ -2,8 +2,8 @@
 author: Renan Lenhare
 pubDatetime: 2024-08-22T19:26:00Z
 modDatetime: 2024-08-22T19:26:00Z
-title: Nossa, que site bonito.
-slug: nossa-que-site-bonito
+title: Aprenda a fazer o deploy do Astro Paper
+slug: aprenda-a-fazer-deploy-site
 featured: true
 draft: false
 tags:
