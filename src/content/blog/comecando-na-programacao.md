@@ -5,7 +5,7 @@ modDatetime: 2024-08-23T19:13:00Z
 title: Começando na Programação
 slug: comecando-na-programacao
 featured: true
-draft: true
+draft: false
 tags:
   - dicas
 description: Dicas para começar na programação.
@@ -25,15 +25,17 @@ Agora, vamos às dicas e sites que podem te ajudar a dar os primeiros passos:
 
 2. Utilize plataformas de aprendizado online: Sites como [Codecademy](https://www.codecademy.com/), [freeCodeCamp](https://www.freecodecamp.org/) e **[Udemy](https://www.udemy.com/)** oferecem cursos interativos gratuitos que vão te ensinar os conceitos básicos e além.
 
-3. Participe de comunidades de desenvolvedores: Entrar em fóruns, como [Stack Overflow](https://stackoverflow.com/), e grupos de discussão no Reddit, pode te ajudar a resolver dúvidas e conectar-se com outros iniciantes e profissionais experientes.
+3. Participe de comunidades de desenvolvedores: Entrar em fóruns, como [Stack Overflow](https://stackoverflow.com/), grupos de discussão no Reddit, e canais do Discord, como é o caso do [BolaDevs](https://discord.com/invite/bzZWbQ9zjJ), meu servidor e do meu amigo [Rafael](https://github.com/rafaelfrazatto) para programadores, tudo isso pode te ajudar a resolver dúvidas e conectar-se com outros iniciantes e profissionais experientes.
 
 4. Pratique, pratique, pratique: A programação é uma habilidade prática. Quanto mais você codificar, melhor você vai se tornar. Desafios em plataformas como [HackerRank](https://www.hackerrank.com/) ou [LeetCode](https://leetcode.com/) podem ser ótimos para treinar.
 
 5. Construa projetos próprios: Nada ensina mais do que colocar a mão na massa. Crie pequenos projetos e evolua gradativamente. Isso também vai te ajudar a montar um portfólio, essencial para conseguir oportunidades na área.
 
-**_Extra_**: Não fique preso no _limbo_ dos tutoriais de YouTube. É fácil se envolver em tutoriais e nunca construir nada. Os tutoriais são ótimos para aprender, mas a melhor maneira de aprender é **fazendo**. Um exemplo disso é assistir a um tutorial baseado em projeto, codificar junto com o instrutor. Depois de terminar o tutorial, tente construir o mesmo projeto do zero **sem** o tutorial (se não conseguir, não há problema em voltar ao tutorial). Repita esse processo até poder construir o projeto sem o tutorial. Depois disso, tente adicionar novos recursos ao projeto ou construir algo semelhante do zero.
+6. Consuma conteúdos de desenvolvedores experientes, como é o caso do [Filipe Deschamps](https://www.youtube.com/c/filipedeschamps), ele têm ótimos vídeos ensinando muita coisa!
 
-**_Extra 2_**: Crie um GitHub, inicialmente para você não perder seus códigos (rsrs), _o GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo._ Inclusive, tenho um tutorial de como fazer um deploy de um site igual a esse, [aqui](https://lenhare.dev/posts/aprenda-a-fazer-deploy-site/).
+**_Nota_**: Não fique preso no _limbo_ dos tutoriais de YouTube. É fácil se envolver em tutoriais e nunca construir nada. Os tutoriais são ótimos para aprender, mas a melhor maneira de aprender é **fazendo**. Um exemplo disso é assistir a um tutorial baseado em projeto, codificar junto com o instrutor. Depois de terminar o tutorial, tente construir o mesmo projeto do zero **sem** o tutorial (se não conseguir, não há problema em voltar ao tutorial). Repita esse processo até poder construir o projeto sem o tutorial. Depois disso, tente adicionar novos recursos ao projeto ou construir algo semelhante do zero.
+
+**_Extra_**: Crie um [GitHub](https://github.com/), inicialmente para você não perder seus códigos (rsrs), _o GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo._ Inclusive, tenho um tutorial de como fazer um deploy de um site igual a esse, [aqui](https://lenhare.dev/posts/aprenda-a-fazer-deploy-site/).
 
 ## Sites que vão lhe ajudar (conforme eu for conhecendo mais sites, vou atualizar o post!)
 
