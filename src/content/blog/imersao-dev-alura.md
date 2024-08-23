@@ -25,7 +25,7 @@ Você vai aprender com experts da Alura e do Google, desde os fundamentos da ló
 
 ## Premiação dos melhores projetos
 
-Para te incentivar a aprender na prática, os projetos desta Imersão vão passar por um processo de avaliação. Os dez projetos que mais se destacarem vão receber prêmios incríveis:
+Para te incentivar a aprender na prática, os projetos desta Imersão vão passar por um processo de avaliação. Os dez projetos que mais se destacarem vão receber prêmios incríveis.
 
 ## O que você vai aprender?
 
