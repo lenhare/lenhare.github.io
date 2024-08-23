@@ -101,6 +101,21 @@ const structuredData = {
     <meta property="twitter:description" content={description} />
     <meta property="twitter:image" content={socialImageURL} />
 
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-TMCT93Y2DW"
+    ></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(...args);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-TMCT93Y2DW");
+    </script>
+    
+
     <!-- Google JSON-LD Structured data -->
     <script
       type="application/ld+json"
