@@ -4,7 +4,7 @@ pubDatetime: 2024-08-23T19:28:00Z
 modDatetime: 2024-08-23T19:28:00Z
 title: Imersão Dev com Gemini curso de programação iniciante
 slug: participe-do-imersao-dev-google
-ogImage: "https://www.alura.com.br/assets/img/imersoes/imersao-dev-google-gemini/logo-alura-gemini-g.1723147631.png"
+ogImage: "https://www.alura.com.br/imersao-dev-google-gemini?utm_source=blog&utm_medium=banner&utm_campaign=imersao-dev-google"
 featured: true
 tags:
   - alura
