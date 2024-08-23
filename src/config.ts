@@ -8,8 +8,8 @@ export const SITE: Site = {
   title: "lenhare.dev",
   ogImage: "renan.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 4,
-  postPerPage: 3,
+  postPerIndex: 5,
+  postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
