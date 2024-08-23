@@ -11,8 +11,6 @@ tags:
 description: Como eu fiz o deploy deste site.
 ---
 
-# Tutorial de Deploy do Site Usando Astro Paper no GitHub Pages
-
 Se você se perguntou, "Nossa, que site bonito, como que faz?", segue um breve tutorial do processo de deploy de um site utilizando o template [Astro Paper](https://github.com/satnaing/astro-paper) no GitHub Pages, além de como configurar um domínio personalizado.
 
 ## Pré-requisitos
