@@ -4,8 +4,8 @@ pubDatetime: 2024-08-29T22:01:00Z
 modDatetime: 2024-08-29T22:01:00Z
 title: Seja inconsequente
 slug: inconsequente
-featured: true
-drafted: true
+featured: false
+draft: true
 tags:
   - pensamentos
 description: Seja inconsequente
