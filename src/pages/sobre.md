@@ -34,13 +34,13 @@ Envie um email para [renan@lenhare.dev](renan@lenhare.dev)
 
 ## Expertise Técnica
 
-**Línguas:** Python, JavaScript, PHP
+**Linguagens:** JavaScript, PHP, Python
 
 **Frontend:** React, Next.js, Bootstrap
 
-**Backend:** Express
+**Backend:** Express, Node
 
-**Bancos de Dados:** MongoDB, PostgreSQL, MySQL
+**Bancos de Dados:** MySQL, PostgreSQL
 
 **DevOps:** Docker, Oracle Cloud, AWS
 
