@@ -38,13 +38,17 @@ Envie um email para [renan@lenhare.dev](renan@lenhare.dev)
 
 **Frontend:** React, Next.js, Bootstrap
 
-**Backend:** Express, Node
+**Backend:** Express, Node.js
 
 **Bancos de Dados:** MySQL, PostgreSQL
 
-**DevOps:** Docker, Oracle Cloud, AWS
+**DevOps:** Docker, Oracle Cloud, AWS, Kubernetes, Terraform
 
 **Ciência de Dados:** PyTorch, TensorFlow, Pandas, NumPy, Scikit-learn
+
+**Observabilidade e Monitoramento:** Zabbix, Grafana, Prometheus, Elastic Stack (Elasticsearch, Kibana & Logstash)
+
+**Ferramentas e Infraestrutura:** Metabase, Portainer, Proxmox
 
 ## Diretrizes de Contato
 
